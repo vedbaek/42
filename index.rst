@@ -6,6 +6,9 @@
 Welcome to hello's documentation!
 =================================
 
+
+hello sphinx test
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
