@@ -1,1 +1,3 @@
+sphinx
+myst_parser
 furo==2023.9.10
