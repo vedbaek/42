@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'hello'
-copyright = '2024, Buzz'
-author = 'Buzz'
+project = '42'
+copyright = '2024, 周末'
+author = '周末'
 release = '3.14'
 
 # -- General configuration ---------------------------------------------------
@@ -17,12 +17,12 @@ release = '3.14'
 extensions = []
 
 templates_path = ['_templates']
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = []
 
 language = 'zh_cn'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'furo'
+html_theme = 'alabaster'
 html_static_path = ['_static']
