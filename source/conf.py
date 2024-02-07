@@ -42,3 +42,4 @@ language = 'zh_cn'
 html_theme = 'furo'
 html_title = '周末'
 html_static_path = ['_static']
+html_favicon = '_static/favicon.ico'
