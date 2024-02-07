@@ -13,6 +13,7 @@ hello sphinx test222
    :maxdepth: 2
    :caption: Contents:
 
+   hello.md
 
 
 Indices and tables
