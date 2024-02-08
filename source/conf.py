@@ -40,7 +40,7 @@ language = 'zh_cn'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'furo'
-html_title = '周末'
+html_title = '周末基本无害🍄'
 html_static_path = ['_static']
 html_favicon = '_static/favicon.ico'
 
