@@ -20,9 +20,11 @@
 链表是一种十分常见且实用的数据结构，它在许多算法和程序中都有广泛的应用。
 
 
+## 相关问题
+
 ```{toctree}
-:hidden: true
-:maxdepth: 2
+:hidden: false
+:maxdepth: 1
 
 lc142
 ```

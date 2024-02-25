@@ -1,12 +1,13 @@
 # LeetCode
 
-## I hate LeetCode 🙄
+## LeetCode not fun 🙄
 
 
 ```{toctree}
-:hidden: true
-:maxdepth: 2
+:hidden: false
+:maxdepth: 1
 
+dp/index
 DisjointSet/index
 LinkedList/index
 ```
