@@ -5,7 +5,6 @@
 
 
 ```{toctree}
-:hidden: false
 :maxdepth: 1
 
 dp/index

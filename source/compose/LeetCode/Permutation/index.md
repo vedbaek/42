@@ -18,7 +18,6 @@
 ## 相关问题
 
 ```{toctree}
-:hidden: false
 :maxdepth: 1
 
 lc46

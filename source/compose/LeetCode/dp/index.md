@@ -23,7 +23,6 @@
 
 ## 动态规划入门题目
 ```{toctree}
-:hidden: false
 :maxdepth: 1
 
 lc509
@@ -33,7 +32,6 @@ lc62
 
 ## 背包动态规划 - 最值问题
 ```{toctree}
-:hidden: false
 :maxdepth: 1
 
 lc322
