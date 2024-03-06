@@ -37,6 +37,13 @@ lc62
 lc322
 ```
 
+## 背包动态规划 - 组合问题
+```{toctree}
+:maxdepth: 1
+
+lc518
+```
+
 
 ## 参考
 [1] 动态规划 https://en.wikipedia.org/wiki/Dynamic_programming
