@@ -1,0 +1,7 @@
+# 31. 下一个排列⭐⭐
+![](../../../_static/leetcode/lc31_01.png)
+
+## 分析TODO
+
+## 参考
+[1] 31. 下一个排列 https://leetcode.cn/problems/next-permutation/
