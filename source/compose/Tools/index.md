@@ -3,4 +3,5 @@
 :hidden:
 
 sphinx
+conan
 ```
